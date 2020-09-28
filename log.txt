@@ -1,0 +1,10 @@
+[3;J[H[2J2020-10-06 demo flow
+
+1. Signup 3 paygate accounts: user(john), charging station(i13), vending machine(vm)
+2. Create blapay account for this 3 paygate accounts john(station, vm), i13(main), vm(main)
+3. Deposit: john-->station
+4. Withdraw: john/station to i13/main (auto bonus to john/vm)
+5. Withdraw: john/vm to vm/main
+6. Show all balance
+Press (Y/y) to continue ...
+
